@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/test-integr-systems/static/css/main.a7d6ec4c.css",
-    "main.js": "/test-integr-systems/static/js/main.2ed24aec.js",
+    "main.js": "/test-integr-systems/static/js/main.7cede094.js",
     "static/js/453.11f9129f.chunk.js": "/test-integr-systems/static/js/453.11f9129f.chunk.js",
     "index.html": "/test-integr-systems/index.html",
     "main.a7d6ec4c.css.map": "/test-integr-systems/static/css/main.a7d6ec4c.css.map",
-    "main.2ed24aec.js.map": "/test-integr-systems/static/js/main.2ed24aec.js.map",
+    "main.7cede094.js.map": "/test-integr-systems/static/js/main.7cede094.js.map",
     "453.11f9129f.chunk.js.map": "/test-integr-systems/static/js/453.11f9129f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7d6ec4c.css",
-    "static/js/main.2ed24aec.js"
+    "static/js/main.7cede094.js"
   ]
 }
